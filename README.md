@@ -22,4 +22,10 @@ Implementing an ATM interface using Java involves using appropriate data structu
 While this short note provides an overview of the essential components, building a full-fledged ATM interface also involves considering security measures, user experience, and integration with the bank's core systems. Additionally, the implementation would require adherence to coding best practices and potentially leveraging third-party libraries for enhanced functionality.
 
 Note: This is a simplified description of an ATM interface using Java. In real-world scenarios, there are many additional aspects to consider, such as encryption, network communication, transaction logging, and compliance with banking regulations.
-![Alt Text]("C:\Users\KIIT\Desktop\Output ATM.jpg")
+
+![Output ATM](https://github.com/swaz05/CodeClause_Task1_ATM_INTERFACE/assets/91139017/c496e918-fbd3-4e37-9c07-576a24107c3c)
+
+
+
+https://github.com/swaz05/CodeClause_Task1_ATM_INTERFACE/assets/91139017/ca96cfa1-a037-425e-8b57-e12bfc557096
+
